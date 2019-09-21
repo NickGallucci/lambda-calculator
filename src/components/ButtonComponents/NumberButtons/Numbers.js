@@ -5,7 +5,7 @@ import NumberButton from '../NumberButtons'
 //import any components needed
 
 //Import your array data to from the provided data file
-import { numbers } from '../../../data'
+import { numbers } from './NumberButton'
 const Numbers = () => {
   const [numberState, setNumberState] = useState(numbers);
   // STEP 2 - add the imported data to state
