@@ -1,9 +1,9 @@
 // import React from "react";
 import "./App.css";
 import React, { useState } from "react";
-import Specials from './components/ButtonComponents/SpecialButtons/Specials';
-import Operators from './components/ButtonComponents/OperatorButtons/Operators';
-import {Numbers} from './components/ButtonComponents/NumberButtons/Numbers';
+import Specials from './components/ButtonComponents/SpecialButtons/SpecialButton';
+import Operators from './components/ButtonComponents/OperatorButtons/OperatorButton';
+import Numbers from './components/ButtonComponents/NumberButtons/NumberButton';
 // STEP 4 - import the button and display components
 // Don't forget to import any extra css/scss files you build into the correct component
 
