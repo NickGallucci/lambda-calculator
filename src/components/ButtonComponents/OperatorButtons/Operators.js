@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import OperatorButton from './OperatorButton';
+import OperatorButton from '../OperatorButtons/OperatorButton';
 //import any components needed
 
 //Import your array data to from the provided data file
