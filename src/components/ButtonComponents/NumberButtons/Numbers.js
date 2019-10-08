@@ -1,6 +1,6 @@
 // import React from "react";
 import React, { useState } from "react";
-import {NumberButton} from '../NumberButton'
+import {NumberButton} from '../NumberButtons/NumberButton'
 import { Numbers } from '../../../data'
 //import any components needed
 
