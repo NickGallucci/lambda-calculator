@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import SpecialButton from './SpecialButton';
+import SpecialButton from '../SpecialButtons/SpecialButton';
 //import any components needed
 import { specials } from '../../../data';
 //Import your array data to from the provided data file
