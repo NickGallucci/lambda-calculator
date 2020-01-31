@@ -10,3 +10,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.container {
+  border: 1px solid #000;
+}
+
+.logo-container {
+  background-color: black;
+  padding: 10px;
+}
+
+.App {
+  display: grid;
+  grid-template-columns: 40px 40px 40px 40px;
+  grid-template-rows: 40px 40px 40px 40px 40px;
+  max-width: 960px;
+}
